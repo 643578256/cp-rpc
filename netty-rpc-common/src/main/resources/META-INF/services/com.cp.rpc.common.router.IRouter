@@ -1,0 +1,3 @@
+com.cp.rpc.common.router.LurRouter
+com.cp.rpc.common.router.RandomRouter
+com.cp.rpc.common.router.WeightRouter
